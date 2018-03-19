@@ -45,13 +45,13 @@ Study groups are allowed but we expect students to understand and complete their
 <li> March, 15: Dimensionaly Reduction for Recommender Systems. 
 <li> March, 22: Content-Based Recommender Systems.
 <li> March, 29: Easter Break
-<li> April, 5:  Item-Based Recommender Systems.
+<li> April, 5:  Music Recommender Systems.
 <li> April, 12: Evaluation of Recommenders Systems
-<li> April, 19: Item-Item Methods
-<li> April, 26: Graph-Based Methods
+<li> April, 19: Graph-Based Models
+<li> April, 26: Deep Learning Models
 <li> May, 3: No-Class
-<li> May, 10: Deep Learning and Recommender Systems
-<li> May, 17: Context Aware Recommender System / Cold Start
+<li> May, 10: Context Based Models
+<li> May, 17: Group Based Models / Knowledge Recommendations
 <li> May, 24: Current Practices in Industry and Research
 <li> May, 31: EXAM
 
