@@ -16,7 +16,7 @@ This course will cover the basics of recommender systems by using a hands-on app
 
 ## Class Time and Location
 
-2nd Semester (February - May, 2017)
+2nd Semester (February - May, 2019)
 Lecture: Thursday 15:00-17:00
 Location: Aula B1, Facultat de Matemàtiques i Informàtica, Universitat de Barcelona
 
@@ -38,21 +38,21 @@ Study groups are allowed but we expect students to understand and complete their
 
 ## Course Agenda
 <ol type="1">
-<li> Feb, 15: Introduction to Recommender Systems.
-<li> Feb, 22: Non-Personalized Recommenders.
-<li> March, 1: Collaborative-Based Recommender Systems.
-<li> March, 8: Collaborative-Based Recommender Systems. 
-<li> March, 15: Dimensionaly Reduction for Recommender Systems. 
-<li> March, 22: Content-Based Recommender Systems.
-<li> March, 29: Easter Break
-<li> April, 5:  Music Recommender Systems.
-<li> April, 12: Evaluation of Recommenders Systems
-<li> April, 19: Graph-Based Models
-<li> April, 26: Deep Learning Models
-<li> May, 3: No-Class
-<li> May, 10: Context Based Models
-<li> May, 17: Group Based Models / Knowledge Recommendations
-<li> May, 24: Current Practices in Industry and Research
-<li> May, 31: EXAM
+<li> Feb, 14: Introduction to Recommender Systems.
+<li> Feb, 21: Non-Personalized Recommenders.
+<li> Feb, 28: Collaborative-Based Recommender Systems.
+<li> March, 7: Collaborative-Based Recommender Systems.
+<li> March, 14: Dimensionaly Reduction for Recommender Systems. 
+<li> March, 21: Content-Based Recommender Systems.
+<li> March, 28: Music Recommender Systems.
+<li> April, 4:  Evaluation of Recommenders Systems
+<li> April, 11: NO CLASS - MATEFEST
+<li> April, 18: NO CLASS - Easter Break
+<li> April, 25: Graph-Based Models
+<li> May, 2: Deep Learning Models
+<li> May, 9: Context Based Models
+<li> May, 16: Group Based Models / Knowledge Recommendations
+<li> May, 23: Current Practices in Industry and Research
+<li> May, 30: EXAM
 
 </ol>
